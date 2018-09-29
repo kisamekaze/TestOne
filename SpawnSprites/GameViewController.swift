@@ -2,7 +2,6 @@
 //  GameViewController.swift
 //  SpawnSprites
 //
-//  Created by Mekhala Vithala on 6/23/18.
 //  Copyright © 2018 Playground. All rights reserved.
 //
 
